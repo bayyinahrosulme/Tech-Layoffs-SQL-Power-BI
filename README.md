@@ -9,7 +9,7 @@ layoff records from 2020 to 2025.
 - GitHub — Version control
 
 ## Dashboard Screenshot
-(paste your screenshot here)
+![Dashboard](dashboard_screenshot.png)
 
 ## Key Findings
 - 2025 was the worst year for layoffs
